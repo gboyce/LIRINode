@@ -1,0 +1,28 @@
+{
+  "name": "week-10",
+  "version": "1.0.0",
+  "description": "Grading TA will need to add a key.js file. I don't tweeter.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gboyce/Week-10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gboyce/Week-10/issues"
+  },
+  "homepage": "https://github.com/gboyce/Week-10#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "request": "^2.81.0",
+    "s": "^0.1.1",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {}
+}
